@@ -1,4 +1,4 @@
-# IT Staffing Recruitment Data Lake and Analytics Platform (Staffing-Origin)
+# IT Staffing Recruitment Data Lake and Analytics Platform (SO)
 
 - Project Summary: Designed and implemented a data lake and analytics platform for an IT staffing recruitment business to optimize recruitment processes through data-driven insights.
 
