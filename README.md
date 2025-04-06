@@ -1,4 +1,4 @@
-# Data Engineering and Analytics Platform for IT Staffing Recruitment
+# Data Engineering and Analytics for IT Staffing Recruitment
 
 - Project Summary: Designed and implemented a data lake and analytics platform for an IT staffing recruitment business to optimize recruitment processes through data-driven insights.
 
